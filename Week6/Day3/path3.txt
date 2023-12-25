@@ -1,0 +1,5 @@
+lines1:text
+lines2:
+lines3:
+lines4:within
+lines5:thefile
